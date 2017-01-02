@@ -21,4 +21,3 @@ function my_click(el){
 var clock_div = document.getElementById('clock_div');
 
 my_click(clock_div);
-
